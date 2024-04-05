@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤔 learn and explore...
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Newway1997&show_icons=true&theme=onedark" />
+
+[![Visits Badge](https://badges.pufler.dev/visits/Newway1997/Newway1997)](https://github.com/Newway1997/Newway1997)
